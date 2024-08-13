@@ -74,9 +74,9 @@ header nav ul li a:hover {
 #about {
     background-color: #222;
     padding: 40px 20px;
-    margin: 0 auto 40px auto; /* Center the section horizontally */
-    width: 80%; /* Set a width for the section */
-    max-width: 900px; /* Limit the maximum width */
+    margin: 0 auto 40px auto;
+    width: 80%;
+    max-width: 900px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
@@ -85,38 +85,38 @@ header nav ul li a:hover {
     font-size: 2.5em;
     margin-bottom: 20px;
     color: #ffffff;
-    text-align: center; /* Center the heading */
+    text-align: center;
 }
 
 #about p {
     font-size: 1.2em;
     margin-bottom: 20px;
     line-height: 1.8;
-    text-align: center; /* Center the paragraph */
+    text-align: center;
 }
 
 #about h3 {
     margin-top: 30px;
     font-size: 1.75em;
     color: #61dafb;
-    text-align: center; /* Center the subheading */
+    text-align: center;
 }
 
 #about ul {
     list-style: none;
     padding: 0;
-    text-align: center; /* Center the list */
+    text-align: center;
 }
 
 #about ul li {
     background: #333;
     color: #e0e0e0;
-    margin: 5px auto; /* Center each list item */
+    margin: 5px auto;
     padding: 10px;
     border-radius: 5px;
     transition: background 0.3s ease;
-    width: 80%; /* Adjust width to fit better within the centered layout */
-    max-width: 500px; /* Limit maximum width for list items */
+    width: 80%;
+    max-width: 500px;
 }
 
 #about ul li:hover {
@@ -127,9 +127,9 @@ header nav ul li a:hover {
 #projects {
     background-color: #222;
     padding: 40px 20px;
-    margin: 0 auto 40px auto; /* Center the section horizontally */
-    width: 80%; /* Set a width for the section */
-    max-width: 900px; /* Limit the maximum width */
+    margin: 0 auto 40px auto;
+    width: 80%;
+    max-width: 900px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
@@ -138,13 +138,13 @@ header nav ul li a:hover {
     font-size: 2.5em;
     margin-bottom: 20px;
     color: #ffffff;
-    text-align: center; /* Center the heading */
+    text-align: center;
 }
 
 #projects ul {
     list-style: none;
     padding: 0;
-    text-align: center; /* Center the list */
+    text-align: center;
 }
 
 #projects ul li {
@@ -156,7 +156,7 @@ header nav ul li a:hover {
     font-size: 1.75em;
     margin-bottom: 10px;
     color: #61dafb;
-    text-align: center; /* Center the project title */
+    text-align: center;
     transition: color 0.3s ease;
 }
 
@@ -164,7 +164,7 @@ header nav ul li a:hover {
     font-size: 1.1em;
     margin-bottom: 10px;
     line-height: 1.8;
-    text-align: center; /* Center the project description */
+    text-align: center;
 }
 
 #projects video {
@@ -249,5 +249,5 @@ a {
 }
 
 a:hover {
-    color: #21a1f1; /* Slightly lighter color on hover */
+    color: #21a1f1;
 }
